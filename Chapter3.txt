@@ -1,0 +1,8 @@
+learning Swift
+learning command lines
+learning design
+learning Xcode
+learning Sketch
+learning UI design
+learning game development
+
